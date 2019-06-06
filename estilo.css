@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+fieldset{
+	border:#A71D48 solid;
+	margin-top:200px !important;
+	margin:0 auto;
+	width:350px;
+	border-radius: 5px 5px 5px;
+	}
+
